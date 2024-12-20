@@ -9,7 +9,7 @@ npm i -g @nestjs/cli
 ```
 npx nest new api
 ```
-### Inciando prisma
+### Inciando prisma ORM Gerenciador de Banco
 * <b>2</b> Instalando o prisma
 ```
 npm install prisma --save-dev
