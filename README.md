@@ -52,4 +52,6 @@ npx prisma migrate dev --name init
 ```
 
 * <b>8</b>  Abrindo o nosso prisma Studio Admin
+```
 npx prisma studio
+```
