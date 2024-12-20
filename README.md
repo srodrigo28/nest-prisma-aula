@@ -1,5 +1,10 @@
 ### Criando projeto
 
+* <b>0</b>
+```
+npm i -g @nestjs/cli
+```
+
 * <b>1</b> depois de selecionar uma pasta
 ```
 npx nest new api
