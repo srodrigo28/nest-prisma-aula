@@ -29,7 +29,9 @@ datasource db {
 ```
 
 * <b>5</b> editando o .env
+```
 DATABASE_URL="file:./dev.db"
+```
 
 * <b>6</b> Model entrar na pasta prisma editar o schema.prisma
 ```
