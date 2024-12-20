@@ -1,8 +1,9 @@
 ### Criando projeto
 
 * <b>1</b> depois de selecionar uma pasta
+```
 npx nest new api
-
+```
 ### Inciando prisma
 * <b>2</b> Instalando o prisma
 ```
