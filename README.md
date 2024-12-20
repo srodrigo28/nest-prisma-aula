@@ -15,7 +15,7 @@ npx nest new api
 npm install prisma --save-dev
 ```
 
-* <b>3</b> Inciando o prisma <b>( Gera a pasta Prisma )</b>
+* <b>3</b> Inciando o prisma <b style="color: 'green'">( Gera a pasta Prisma )</b>
 ```
 npx prisma init
 ```
